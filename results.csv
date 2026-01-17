@@ -1,0 +1,6 @@
+﻿Model,SMOTE,RandomOver,RandomUnder,SMOTEENN,SMOTETomek
+LogisticRegression,50.1,52.24,63.18,69.23,70.12
+DecisionTreeClassifier,59.25,65.27,68.72,28.36,30.25
+RandomForestClassifier,90.45,72.41,32.17,42.58,41.85
+SVC,78.25,56.24,47.23,33.44,40.12
+XGBClassifier,81.25,12.85,57.36,32.25,52.74

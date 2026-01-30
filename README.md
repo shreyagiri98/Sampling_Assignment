@@ -60,4 +60,4 @@ The results show that oversampling techniques, especially SMOTE, are highly effe
 ## 8. Conclusion
 
 This study demonstrates that selecting an appropriate sampling technique is crucial when working with imbalanced datasets. No single method is best for all classifiers; however, synthetic oversampling methods generally provide better learning for complex models, while simpler models may benefit from controlled undersampling or hybrid approaches.
-# Sampling_Assignment
+
